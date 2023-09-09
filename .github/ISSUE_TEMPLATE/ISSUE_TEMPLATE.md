@@ -1,12 +1,3 @@
----
-name: Bug Report
-about: Create a report of the bug (Collicoid or Killik?)
-title: ''
-labels: bug
-assignees: ''
-
----
-
 **Please, provide a clear description what the bug is:**
 
 **Steps to reproduce the behavior with as much detail as possible:**
