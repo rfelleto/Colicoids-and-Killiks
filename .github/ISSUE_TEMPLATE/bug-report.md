@@ -2,7 +2,7 @@
 name: Bug report
 about: Tells us where you found the bug. Colicoid or Killik?
 title: ''
-labels: ''
+labels: help wanted
 assignees: ''
 
 ---
