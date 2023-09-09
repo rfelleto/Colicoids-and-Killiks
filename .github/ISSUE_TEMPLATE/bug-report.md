@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a report of the bug (Collicoid or Killik?)
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
