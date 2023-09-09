@@ -3,8 +3,8 @@
 **Steps to reproduce the behavior with as much detail as possible:**
 
 1.
-2. 
-3. 
+2.
+3.
 
 **IDs of affected creatures, items, quests or spells with a link to the relevant page:**
 
