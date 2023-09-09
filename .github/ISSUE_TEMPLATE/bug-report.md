@@ -15,8 +15,9 @@ assignees: ''
 2.
 3.
 
-**IDs of affected creatures, items, quests or spells with a link to the relevant page:**
+**Forum Post and IDs of affected creatures, items, quests or spells with a link to the relevant page:**
 
+Forum Post: https://forums.swtor.com/topic/
 NPC: https://torcommunity.com/database/search/npc
 Item: https://torcommunity.com/database/search/item
 Mission: https://torcommunity.com/database/search/mission
