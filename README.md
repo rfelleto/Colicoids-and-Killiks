@@ -3,4 +3,4 @@ A comprehensive list of bugs reported by players of the MMO Star Wars: The Old R
 
 When submitting a report, please follow the instructions in the issue template.
 
-Click the link to add a new issue: https://github.com/rfelleto/SWTOR-bug-tracker/issues/new?assignees=&labels=&projects=&template=bug-report.md&title=
+Click the link to submit a new issue: https://github.com/rfelleto/SWTOR-bug-tracker/issues/new?assignees=&labels=&projects=&template=bug-report.md&title=
