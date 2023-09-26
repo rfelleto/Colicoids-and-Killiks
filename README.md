@@ -1,4 +1,4 @@
-# SWTOR bug tracker
+# SWTOR Player bug tracker
 A comprehensive list of bugs reported by players of the MMO Star Wars: The Old Republic
 
 When submitting a report, please follow the instructions in the issue template.
